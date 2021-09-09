@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Jars/jcalendar-1.4.jar",
+        "Jars/barbecue-1.5-beta1.jar",
+        "Jars/JTattoo-1.6.11.jar",
+        "Jars/sqlitejdbc-v056.jar",
+        "Jars/rs2xml.jar"
+    ]
+}
